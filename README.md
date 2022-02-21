@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Carol!
 
 
-<img src="https://media1.giphy.com/media/DNKpoMbsUcjXa/giphy.gif?cid=ecf05e470k3if500t7kdo4rv2wr4ur38xa2qhrl72qrpw67f&rid=giphy.gif&ct=g" width="300" height="300" align="right">
+<img src="https://i.giphy.com/media/euGq9pgXoOVJcVhwRF/giphy.webp" width="300" height="300" align="right">
 
 <p align="left">
 
