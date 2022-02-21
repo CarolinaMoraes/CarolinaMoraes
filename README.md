@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Carol!
 
 
-<img src="https://i.giphy.com/media/euGq9pgXoOVJcVhwRF/giphy.webp" width="300" height="300" align="right">
+<img src="https://i.giphy.com/media/DNKpoMbsUcjXa/giphy.webp" width="300" height="300" align="right">
 
 <p align="left">
 
@@ -45,18 +45,3 @@ This is the tech stack that I work with on a daily basis. I've worked with/exper
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaMoraes&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaMoraes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-
-<!--
-**CarolinaMoraes/CarolinaMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- ⚡ Fun fact: ...
--->
