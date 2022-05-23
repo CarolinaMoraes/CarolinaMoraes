@@ -14,7 +14,7 @@ Curious about tech and always looking for the best way to develop products and i
 
 💼 Occupation: fullstack junior developer and currently working (remotely) at Klaus Fiscal;
 
-🎓 Education: graduated technician in System Development at SENAI and graduating at "Análise e Desenvolvimento de Sistemas" (System Analysis and Development) at Instituto Federal de São Paulo (IFSP), Brazil
+🎓 Education: graduated technician in System Development at SENAI and college graduated in "Análise e Desenvolvimento de Sistemas" (System Analysis and Development) at Instituto Federal de São Paulo (IFSP), Brazil
 
 🌱 I’m currently studying: more about Spring Framework
 
