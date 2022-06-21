@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Carol!
+## Hi there, I'm Carol!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Carolina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-de-moraes-josephik/-a85263188/)](https://www.linkedin.com/in/carolina-de-moraes-josephik/-a85263188/) [![Gmail Badge](https://img.shields.io/badge/-carolina.moraesjosephik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolina.moraesjosephik@gmail.com)](mailto:carolina.moraesjosephik@gmail.com)
 
