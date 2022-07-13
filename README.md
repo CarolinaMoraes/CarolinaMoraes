@@ -43,6 +43,6 @@ This is the tech stack that I work with on a daily basis. I've worked with/exper
 
 ### &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaMoraes&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Carol's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarolinaMoraes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-two-rho.vercel.app/api/top-langs/?username=CarolinaMoraes&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Carol's GitHub stats](https://github-readme-stats-two-rho.vercel.app/api?username=CarolinaMoraes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
