@@ -6,13 +6,13 @@
 
 <p align="left">
 
-I'm Carolina de Moraes Josephik but you can call me Carol! I'm a 21 year old fullstack software developer (junior).
+I'm Carolina de Moraes Josephik but you can call me Carol! I'm a 21 year old full stack software developer.
 Curious about tech and always looking for the best way to develop products and improve experiences.
 (The tech stack I use the most is listed in my toolbox)
 
 😄 Pronouns: she/her;
 
-💼 Occupation: fullstack junior developer and currently working (remotely) at Klaus Fiscal;
+💼 Occupation: junior full stack developer and currently working (remotely) at Klaus Fiscal;
 
 🎓 Education: graduated technician in System Development at SENAI and college graduated in "Análise e Desenvolvimento de Sistemas" (System Analysis and Development) at Instituto Federal de São Paulo (IFSP), Brazil
 
