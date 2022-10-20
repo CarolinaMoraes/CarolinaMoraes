@@ -28,6 +28,7 @@ This is the tech stack that I worked with on a daily basis. I've worked with/exp
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS Logo" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5 Logo" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js Logo" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Vue.js Logo" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="Java Logo" width="40" height="40"/>
