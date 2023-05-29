@@ -13,7 +13,7 @@ Curious about tech and always looking for the best way to develop products and i
 
 🎓 Education: graduated technician in System Development at SENAI and college graduated in "Análise e Desenvolvimento de Sistemas" (System Analysis and Development) at Instituto Federal de São Paulo (IFSP), Brazil
 
-🌱 I’m currently studying: GraphQL
+🌱 I’m currently studying: GraphQL + TypeScript + Nest.js
 
 📫 How to reach me: you can email me at carolina.moraesjosephik@gmail.com or send me a message on [LinkedIn](https://www.linkedin.com/in/carolina-de-moraes-josephik/)
 
@@ -23,9 +23,9 @@ Curious about tech and always looking for the best way to develop products and i
 
 ### 🧰 Toolbox
 
-This is the tech stack that I worked with on a daily basis. I've worked with/experienced some other languages and tools, but decided not to list them here (but if you're curious feel free to ask me). When it comes to languages I feel the most comfortable with Javascript and Java.
+This is the tech stack that I worked with on a daily basis. I've worked with/experienced some other languages and tools, but decided not to list them here (but if you're curious feel free to ask me). When it comes to languages I feel the most comfortable with Javascript/Typescript
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS Logo" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="JavaScript Logo" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS Logo" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5 Logo" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js Logo" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="35" height="35"/>
