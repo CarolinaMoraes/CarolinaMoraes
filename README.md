@@ -31,8 +31,8 @@ This is the tech stack that I worked with on a daily basis. I've worked with/exp
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Vue.js Logo" width="35" height="35"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="Java Logo" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="Java Logo" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="C Sharp Logo" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="MySQL Logo" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB Logo" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git Logo" width="35" height="35"/>
