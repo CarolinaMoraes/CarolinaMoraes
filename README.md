@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Carolina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-de-moraes-josephik/-a85263188/)](https://www.linkedin.com/in/carolina-de-moraes-josephik/-a85263188/) [![Gmail Badge](https://img.shields.io/badge/-carolina.moraesjosephik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolina.moraesjosephik@gmail.com)](mailto:carolina.moraesjosephik@gmail.com)
 
-<img src="https://media0.giphy.com/media/LGzrggUppEBdm/giphy.gif?cid=ecf05e47typ7sbl85qkjb84q1zutoisgrmr5z7d4sbm9ni5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="300" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8c3f-7d045910ddc9.gif" width="300" height="300" align="right">
 
 <p align="left">
 
