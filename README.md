@@ -13,7 +13,7 @@ Curious about tech and always looking for the best way to develop products and i
 
 🎓 Education: graduated technician in System Development at SENAI and college graduated in "Análise e Desenvolvimento de Sistemas" (System Analysis and Development) at Instituto Federal de São Paulo (IFSP), Brazil
 
-🌱 I’m currently studying: GraphQL + TypeScript + Nest.js + Docker
+🌱 I’m currently studying: GraphQL + TypeScript + Next
 
 📫 How to reach me: you can email me at carolina.moraesjosephik@gmail.com or send me a message on [LinkedIn](https://www.linkedin.com/in/carolina-de-moraes-josephik/)
 
