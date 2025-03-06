@@ -6,7 +6,7 @@
 
 <p align="left">
 
-I'm Carolina de Moraes Josephik but you can call me Carol! I'm a 23 year old full stack software developer.
+I'm Carolina de Moraes Josephik but you can call me Carol! I'm a 24 year old full stack software developer.
 Curious about tech and always looking for the best way to develop products and improve experiences.
 
 😄 Pronouns: she/her;
