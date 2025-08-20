@@ -8,7 +8,9 @@
 
 I'm Carolina, but you can call me Carol! I'm a 24 year old software engineer. Curious about tech and always looking for the best way to develop products and improve experiences.
 
-🎓 Education: graduated technician in System Development at SENAI and college graduated in "Análise e Desenvolvimento de Sistemas" (System Analysis and Development) at Instituto Federal de São Paulo (IFSP), Brazil
+🎓 Education
+
+Graduated technician in System Development at SENAI and college graduated in "Análise e Desenvolvimento de Sistemas" (System Analysis and Development) at Instituto Federal de São Paulo (IFSP), Brazil
 
 🧰 Toolbox
 
